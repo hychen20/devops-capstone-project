@@ -1,3 +1,12 @@
+---
+name: User Story
+about: This template is for creating user stories
+title: ''
+labels: ''
+assignees: hychen20
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
